@@ -28,4 +28,4 @@ let birDuygu = "güzel!";
 let cumle = "Özgürce yaşamak ";
 cumle += birDuygu;
 
-Özgürce yaşamak güzel!
+//Özgürce yaşamak güzel!
