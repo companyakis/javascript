@@ -1,4 +1,4 @@
-//pop ve shift işlevleri!
+//pop, shift ve unshift işlevleri!
 
 //pop() işlevi ile sondan öğe silme
 
@@ -31,3 +31,16 @@ console.log(sayilar); //[1, 2, 3, 4, 5]
 let a = sayilar.shift();
 
 console.log(a); //1
+
+//-------------------------------------------
+
+//unshift() işlevi en başa öğe ekleme
+
+let adlar = ["ali", "cengiz"];
+
+adlar.unshift("kirli");
+
+console.log(adlar); //["kirli", "ali", cengiz"]
+
+
+
